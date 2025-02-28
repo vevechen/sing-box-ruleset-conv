@@ -3,24 +3,24 @@
     "rules": [
         {
             "process_name": [
+                "Snipaste",
+                "ProcessSpy",
                 "Shifty",
                 "Scroll Reverser",
                 "Snipaste.exe",
                 "Ice",
-                "Snipaste",
-                "Find Any File",
-                "DevToys Networking",
-                "Little Snitch Agent",
-                "CodeRunner",
-                "Command X",
-                "BLEUnlock",
-                "Clop",
-                "DevToys",
-                "Swish",
                 "TextSniper",
+                "Command X",
+                "Little Snitch Agent",
+                "Find Any File",
                 "Squirrel",
-                "ProcessSpy",
-                "Apple Juice"
+                "Apple Juice",
+                "Clop",
+                "DevToys Networking",
+                "CodeRunner",
+                "Swish",
+                "BLEUnlock",
+                "DevToys"
             ]
         }
     ]
