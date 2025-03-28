@@ -3,47 +3,47 @@
     "rules": [
         {
             "domain": [
+                "greencloudvps.com",
                 "p16-tiktokcdn-com.akamaized.net",
-                "reddit.map.fastly.net",
-                "greencloudvps.com"
+                "reddit.map.fastly.net"
             ]
         },
         {
             "domain_suffix": [
-                "byteoversea.com",
-                "tiktokeu-cdn.com",
-                "tiktokd.org",
-                "tik-tokapi.com",
+                "redditmedia.com",
+                "tiktokcdn-eu.com",
                 "tiktokrow-cdn.com",
-                "mask.icloud.com",
+                "tiktokv.eu",
+                "tiktokcdn.com",
                 "ttwstatic.com",
                 "tiktok.com",
-                "tiktokv.us",
                 "redditblog.com",
-                "tiktokw.eu",
-                "redd.it",
-                "tiktokcdn-eu.com",
-                "ttoverseaus.net",
-                "tiktokcdn.com",
                 "redditinc.com",
-                "reddit.app.link",
-                "redditstatic.com",
-                "tiktokcdn-us.com",
-                "tiktokv.eu",
-                "reddithelp.com",
+                "tiktokw.us",
                 "mask-h2.icloud.com",
-                "reddit.com",
-                "muscdn.com",
+                "tiktokcdn-us.com",
+                "redditmail.com",
                 "tiktokd.net",
+                "reddithelp.com",
+                "tiktokv.us",
+                "muscdn.com",
+                "tiktokv.com",
+                "redditstatus.com",
+                "reddit.app.link",
+                "ttlivecdn.com",
                 "redditspace.com",
                 ".steamserver.net",
-                "redditmail.com",
-                "redditstatus.com",
+                "redd.it",
                 "musical.ly",
-                "ttlivecdn.com",
-                "redditmedia.com",
-                "tiktokv.com",
-                "tiktokw.us"
+                "mask.icloud.com",
+                "tiktokeu-cdn.com",
+                "ttoverseaus.net",
+                "tiktokd.org",
+                "tiktokw.eu",
+                "reddit.com",
+                "byteoversea.com",
+                "redditstatic.com",
+                "tik-tokapi.com"
             ]
         }
     ]
