@@ -1,39 +1,4 @@
 {
     "version": 1,
-    "rules": [
-        {
-            "process_name": [
-                "WeChat",
-                "QQ",
-                "hydra-python-rpc.exe",
-                "infuse",
-                "aria2c.exe",
-                "115Browser Helper",
-                "BaiduNetdisk_mac",
-                "ToDesk_Service",
-                "幕布 Helper",
-                "Transmission",
-                "qbittorrent",
-                "WeChatAppEx Helper",
-                "cloudd",
-                "wegame.exe",
-                "frpc",
-                "Music",
-                "fdm",
-                "TencentMeeting",
-                "BitComet",
-                "qbittorrent.exe",
-                "App Store",
-                "Thunder",
-                "115chrome.exe",
-                "115Browser",
-                "vidhub",
-                "Eudb_en_free",
-                "APTV",
-                "fdm.exe",
-                "iCloudDrive.exe",
-                "ThunderVIP"
-            ]
-        }
-    ]
+    "rules": []
 }
