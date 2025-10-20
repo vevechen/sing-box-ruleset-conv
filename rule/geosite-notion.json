@@ -8,11 +8,11 @@
         },
         {
             "domain_suffix": [
-                "notion.new",
-                "notion.com",
                 "notion.site",
+                "notion.so",
+                "notion.new",
                 "notion-static.com",
-                "notion.so"
+                "notion.com"
             ]
         }
     ]
