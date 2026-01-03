@@ -9,10 +9,10 @@
         {
             "domain_suffix": [
                 "notion.so",
+                "notion.new",
                 "notion.site",
-                "notion.com",
                 "notion-static.com",
-                "notion.new"
+                "notion.com"
             ]
         }
     ]
